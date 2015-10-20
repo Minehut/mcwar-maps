@@ -1,0 +1,48 @@
+{
+	"game": "warzone",
+	"name": "castles",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "-160, 101, 0",
+			"yaw": "-90"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "13, 101, 0",
+			"yaw": "90"
+		},
+		{
+			"name": "tower-red-1:1",
+			"coords": "-108, 97, 26"
+		},
+		{
+			"name": "tower-red-1:2",
+			"coords": "-115, 107, 32"
+		},
+		{
+			"name": "tower-red-2:1",
+			"coords": "-123, 98, -36"
+		},
+		{
+			"name": "tower-red-2:2",
+			"coords": "-116, 108, -43"
+		},
+		{
+			"name": "tower-blue-1:1",
+			"coords": "-33, 97, -32"
+		},
+		{
+			"name": "tower-blue-1:2",
+			"coords": "-39, 107, -26"
+		},
+		{
+			"name": "tower-blue-2:1",
+			"coords": "-31, 98, 37"
+		},
+		{
+			"name": "tower-blue-2:2",
+			"coords": "-25, 108, 43"
+		}
+	]
+}
