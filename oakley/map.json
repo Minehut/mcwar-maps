@@ -1,0 +1,48 @@
+{
+	"game": "warzone",
+	"name": "Oakley",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "79, 49, 13",
+			"yaw": "-90"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "89, 49, -103",
+			"yaw": "90"
+		},
+		{
+			"name": "tower-red-1:1",
+			"coords": "40, 47, 2"
+		},
+		{
+			"name": "tower-red-1:2",
+			"coords": "44, 53, 6"
+		},
+		{
+			"name": "tower-red-2:1",
+			"coords": "118, 47, 2"
+		},
+		{
+			"name": "tower-red-2:2",
+			"coords": "122, 53, 6"
+		},
+		{
+			"name": "tower-blue-1:1",
+			"coords": "128, 53, -92"
+		},
+		{
+			"name": "tower-blue-1:2",
+			"coords": "124, 47, -96"
+		},
+		{
+			"name": "tower-blue-2:1",
+			"coords": "50, 53, -96"
+		},
+		{
+			"name": "tower-blue-2:2",
+			"coords": "46, 47, -92"
+		}
+	]
+}
