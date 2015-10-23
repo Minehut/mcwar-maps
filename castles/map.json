@@ -1,7 +1,6 @@
 {
 	"game": "warzone",
 	"name": "castles",
-	"builder": "LOkeys",
 	"locations": [
 		{
 			"name": "red-spawn",
