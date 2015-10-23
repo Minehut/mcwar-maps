@@ -1,6 +1,7 @@
 {
 	"game": "warzone",
 	"name": "Oakley",
+	"builder": "LOkeys and NinjaTrev",
 	"locations": [
 		{
 			"name": "red-spawn",

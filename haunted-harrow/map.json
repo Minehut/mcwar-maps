@@ -1,6 +1,7 @@
 {
 	"game": "warzone",
 	"name": "Haunted Harrow",
+	"builder": "LOkeys and NinjaTrev",
 	"locations": [
 		{
 			"name": "red-spawn",
