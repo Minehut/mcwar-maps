@@ -14,35 +14,35 @@
 		},
 		{
 			"name": "tower-red-1:1",
-			"coords": "-28, 73, -111"
+			"coords": "37, 84, -118"
 		},
 		{
 			"name": "tower-red-1:2",
-			"coords": "-22, 85, -105"
+			"coords": "29, 72, -110"
 		},
 		{
 			"name": "tower-red-2:1",
-			"coords": "20, 85, -111"
+			"coords": "-30, 84, -118"
 		},
 		{
 			"name": "tower-red-2:2",
-			"coords": "26, 73, -105"
+			"coords": "-38, 72, -110"
 		},
 		{
 			"name": "tower-blue-1:1",
-			"coords": "20, 73, 13"
+			"coords": "-39, 84, 18"
 		},
 		{
 			"name": "tower-blue-1:2",
-			"coords": "26, 85, 19"
+			"coords": "-31, 72, 26"
 		},
 		{
 			"name": "tower-blue-2:1",
-			"coords": "-22, 85, 13"
+			"coords": "28, 84, 26"
 		},
 		{
 			"name": "tower-blue-2:2",
-			"coords": "-28, 73, 19"
+			"coords": "36, 72, 18"
 		}
 	]
 }
