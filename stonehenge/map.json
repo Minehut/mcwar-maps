@@ -4,13 +4,13 @@
 	"locations": [
 		{
 			"name": "red-spawn",
-			"coords": "-1, 74, -124",
-			"yaw": "-90"
+			"coords": "0, 74, -124",
+			"yaw": "0"
 		},
 		{
 			"name": "blue-spawn",
-			"coords": "-1, 74, 32",
-			"yaw": "90"
+			"coords": "0, 74, 32",
+			"yaw": "180"
 		},
 		{
 			"name": "tower-red-1:1",

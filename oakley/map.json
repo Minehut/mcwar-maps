@@ -6,12 +6,12 @@
 		{
 			"name": "red-spawn",
 			"coords": "79, 49, 13",
-			"yaw": "-90"
+			"yaw": "180"
 		},
 		{
 			"name": "blue-spawn",
 			"coords": "89, 49, -103",
-			"yaw": "90"
+			"yaw": "0"
 		},
 		{
 			"name": "tower-red-1:1",
