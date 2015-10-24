@@ -31,19 +31,19 @@
 		},
 		{
 			"name": "tower-blue-1:1",
-			"coords": "-33, 97, -32"
+			"coords": "-32, 97, -33"
 		},
 		{
 			"name": "tower-blue-1:2",
-			"coords": "-39, 107, -26"
+			"coords": "-39, 110, -26"
 		},
 		{
 			"name": "tower-blue-2:1",
-			"coords": "-31, 98, 37"
+			"coords": "-32, 98, 36"
 		},
 		{
 			"name": "tower-blue-2:2",
-			"coords": "-25, 108, 43"
+			"coords": "-25, 110, 43"
 		}
 	]
 }
