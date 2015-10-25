@@ -1,0 +1,49 @@
+{
+	"game": "warzone",
+	"name": "Acromion",
+	"builder": "Luuke",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "42, 96, 6",
+			"yaw": "90"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "-78, 96, 6",
+			"yaw": "-90"
+		},
+		{
+			"name": "tower-red-1:1",
+			"coords": "18, 89, 48"
+		},
+		{
+			"name": "tower-red-1:2",
+			"coords": "26, 100, 40"
+		},
+		{
+			"name": "tower-red-2:1",
+			"coords": "19, 96, -17"
+		},
+		{
+			"name": "tower-red-2:2",
+			"coords": "11, 108, 2-5"
+		},
+		{
+			"name": "tower-blue-1:1",
+			"coords": "-55, 108, -17"
+		},
+		{
+			"name": "tower-blue-1:2",
+			"coords": "-47, 96, -25"
+		},
+		{
+			"name": "tower-blue-2:1",
+			"coords": "-54, 89, 48"
+		},
+		{
+			"name": "tower-blue-2:2",
+			"coords": "-62, 100, 40"
+		}
+	]
+}
