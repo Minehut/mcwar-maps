@@ -1,0 +1,49 @@
+{
+	"game": "warzone",
+	"name": "Heaven",
+	"builder": "Boats, RetroMudkip, and Zurtel",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "111, 81, 0",
+			"yaw": "90"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "-1, 81, 0",
+			"yaw": "-90"
+		},
+		{
+			"name": "tower-red-1:1",
+			"coords": "92, 74, -30"
+		},
+		{
+			"name": "tower-red-1:2",
+			"coords": "86, 82, -24"
+		},
+		{
+			"name": "tower-red-2:1",
+			"coords": "92, 74, 24"
+		},
+		{
+			"name": "tower-red-2:2",
+			"coords": "86, 82, 30"
+		},
+		{
+			"name": "tower-blue-1:1",
+			"coords": "23, 74, 24"
+		},
+		{
+			"name": "tower-blue-1:2",
+			"coords": "17, 82, 30"
+		},
+		{
+			"name": "tower-blue-2:1",
+			"coords": "18, 82, -30"
+		},
+		{
+			"name": "tower-blue-2:2",
+			"coords": "24, 74, -24"
+		}
+	]
+}
