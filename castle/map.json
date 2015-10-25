@@ -1,50 +1,49 @@
 {
 	"game": "warzone",
-	"name": "castle",
+	"name": "Castles",
+	"builder": "LOkeys and NinjaTrev",
 	"locations": [
 		{
 			"name": "red-spawn",
-			"coords": "12, 101, 0",
-			"yaw": "90"
+			"coords": "-161, 101, 0",
+			"yaw": "-90"
 		},
 		{
 			"name": "blue-spawn",
-			"coords": "-11, 99, 0",
-			
+			"coords": "13, 101, 0",
+			"yaw": "90"
 		},
 		{
 			"name": "tower-red-1:1",
-			"coords": "-109, 67, 26",
-			"yaw": "-90"
+			"coords": "-144, 110, -19"
 		},
 		{
 			"name": "tower-red-1:2",
-			"coords": "-115, 107, 32",
+			"coords": "-150, 99, -25"
 		},
 		{
 			"name": "tower-red-2:1",
-			"coords": "-123, 98, -37",
+			"coords": "-150, 99, 19"
 		},
 		{
 			"name": "tower-red-2:2",
-			"coords": "-117, 108, -43",
-        },
-        {
+			"coords": "-144, 110, 25"
+		},
+		{
 			"name": "tower-blue-1:1",
-			"coords": "-33, 97, -32",
-			"yaw": "-90"
+			"coords": "2, 99, -19"
 		},
 		{
 			"name": "tower-blue-1:2",
-			"coords": "-139, 107, -26",
+			"coords": "-4, 110, -25"
 		},
 		{
 			"name": "tower-blue-2:1",
-			"coords": "-31, 98, 37",
+			"coords": "2, 99, 19"
 		},
 		{
 			"name": "tower-blue-2:2",
-			"coords": "-25, 108, 43",
+			"coords": "-4, 110, 25"
 		}
 	]
 }
