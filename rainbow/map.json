@@ -1,0 +1,49 @@
+{
+	"game": "warzone",
+	"name": "Rainbow",
+	"builder": "RetroMudkip",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "11.0, 94.0, -20.0",
+			"yaw": "0"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "11.0, 94.0, 152.0",
+			"yaw": "-180"
+		},
+		{
+			"name": "tower-red-1:1",
+			"coords": "-12.0, 94.0, 25.0"
+		},
+		{
+			"name": "tower-red-1:2",
+			"coords": "-19.0, 103.0, 18.0"
+		},
+		{
+			"name": "tower-red-2:1",
+			"coords": "47.0, 96.0, -1.0"
+		},
+		{
+			"name": "tower-red-2:2",
+			"coords": "41.0, 87.0, 5.0"
+		},
+		{
+			"name": "tower-blue-1:1",
+			"coords": "41.0, 96.0, 127.0"
+		},
+		{
+			"name": "tower-blue-1:2",
+			"coords": "47.0, 87.0, 133.0"
+		},
+		{
+			"name": "tower-blue-2:1",
+			"coords": "-19.0, 94.0, 115.0"
+		},
+		{
+			"name": "tower-blue-2:2",
+			"coords": "-13.0, 103.0, 108.0"
+		}
+	]
+}
