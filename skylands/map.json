@@ -1,0 +1,49 @@
+{
+	"game": "warzone",
+	"name": "Skylands",
+	"builder": "Cooli, Dubstep_Cat, and _Unbearable",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "123, 75, 7",
+			"yaw": "90"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "-16, 75, -1",
+			"yaw": "-90"
+		},
+		{
+			"name": "tower-red-1:1",
+			"coords": "91, 74, -23"
+		},
+		{
+			"name": "tower-red-1:2",
+			"coords": "85, 81, -17"
+		},
+		{
+			"name": "tower-red-2:1",
+			"coords": "84, 81, 21"
+		},
+		{
+			"name": "tower-red-2:2",
+			"coords": "90, 74, 27"
+		},
+		{
+			"name": "tower-blue-1:1",
+			"coords": "22, 81, 23"
+		},
+		{
+			"name": "tower-blue-1:2",
+			"coords": "16, 74, 29"
+		},
+		{
+			"name": "tower-blue-2:1",
+			"coords": "17, 74, -15"
+		},
+		{
+			"name": "tower-blue-2:2",
+			"coords": "23, 81, -21"
+		}
+	]
+}
