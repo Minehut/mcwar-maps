@@ -1,0 +1,49 @@
+{
+	"game": "warzone",
+	"name": "Timeless",
+	"builder": "MdsCool, JackJack2822, Mikaatjuhh and DisasterDude",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "1081, 60, 224",
+			"yaw": "0"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "109, 60, 412",
+			"yaw": "-180"
+		},
+		{
+			"name": "tower-red-1:1",
+			"coords": "1043, 80, 250"
+		},
+		{
+			"name": "tower-red-1:2",
+			"coords": "1052, 62, 261"
+		},
+		{
+			"name": "tower-red-2:1",
+			"coords": "1129, 80, 250"
+		},
+		{
+			"name": "tower-red-2:2",
+			"coords": "1121, 62, 261"
+		},
+		{
+			"name": "tower-blue-1:1",
+			"coords": "1130, 62, 375"
+		},
+		{
+			"name": "tower-blue-1:2",
+			"coords": "1121, 81, 386"
+		},
+		{
+			"name": "tower-blue-2:1",
+			"coords": "1043, 80, 374"
+		},
+		{
+			"name": "tower-blue-2:2",
+			"coords": "1052, 62, 386"
+		}
+	]
+}
