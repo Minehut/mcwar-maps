@@ -1,0 +1,49 @@
+{
+	"game": "warzone",
+	"name": "Thrive",
+	"builder": "Jamespond and Cooli",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "-24, 66, 52",
+			"yaw": "180"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "-24, 66, -38",
+			"yaw": "0"
+		},
+		{
+			"name": "tower-red-1:1",
+			"coords": "-54, 74, 43"
+		},
+		{
+			"name": "tower-red-1:2",
+			"coords": "-62, 66, 35"
+		},
+		{
+			"name": "tower-red-2:1",
+			"coords": "6, 66, 43"
+		},
+		{
+			"name": "tower-red-2:2",
+			"coords": "14, 74, 35"
+		},
+		{
+			"name": "tower-blue-1:1",
+			"coords": "6, 66, -21"
+		},
+		{
+			"name": "tower-blue-1:2",
+			"coords": "14, 74, -29"
+		},
+		{
+			"name": "tower-blue-2:1",
+			"coords": "-54, 66, -21"
+		},
+		{
+			"name": "tower-blue-2:2",
+			"coords": "-62, 74, -29"
+		}
+	]
+}
