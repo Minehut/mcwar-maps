@@ -1,5 +1,5 @@
 {
-	"game": "warzone",
+	"game": "domination",
 	"name": "Village",
 	"builder": "BlockHeads36",
 	"locations": [
@@ -12,38 +12,20 @@
 			"name": "blue-spawn",
 			"coords": "6, 51, -72",
 			"yaw": "0"
+		}
+	],
+	"capture_points": [
+		{
+			"name": "East",
+			"coords": "51, 51, 2"
 		},
 		{
-			"name": "tower-red-1:1",
-			"coords": "-44, 62, 63"
+			"name": "Mid",
+			"coords": "0, 51, 0"
 		},
 		{
-			"name": "tower-red-1:2",
-			"coords": "-38, 50, 69"
-		},
-		{
-			"name": "tower-red-2:1",
-			"coords": "22, 50, 69"
-		},
-		{
-			"name": "tower-red-2:2",
-			"coords": "28, 62, 63"
-		},
-		{
-			"name": "tower-blue-1:1",
-			"coords": "32, 50, -63"
-		},
-		{
-			"name": "tower-blue-1:2",
-			"coords": "38, 62, -69"
-		},
-		{
-			"name": "tower-blue-2:1",
-			"coords": "-28, 50, -63"
-		},
-		{
-			"name": "tower-blue-2:2",
-			"coords": "-34, 62, -69"
+			"name": "West",
+			"coords": "-50, 51, -1"
 		}
 	]
 }
