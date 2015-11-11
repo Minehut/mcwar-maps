@@ -1,0 +1,31 @@
+{
+	"game": "domination",
+	"name": "Fort Novi - Domination",
+	"builder": "Luuke",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "23, 96, -52",
+			"yaw": "-48"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "75, 96, 144",
+			"yaw": "130"
+		}
+	],
+	"capture_points": [
+		{
+			"name": "West",
+			"coords": "0, 96, 88"
+		},
+		{
+			"name": "Mid",
+			"coords": "49, 95, 46"
+		},
+		{
+			"name": "East",
+			"coords": "98, 96, 4"
+		}
+	]
+}
