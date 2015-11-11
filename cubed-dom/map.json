@@ -1,0 +1,31 @@
+{
+	"game": "domination",
+	"name": "Cubed - Domination",
+	"builder": "_Ug",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "-5, 206, 5",
+			"yaw": "-135"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "115, 206, -15",
+			"yaw": "45"
+		}
+	],
+	"capture_points": [
+		{
+			"name": "South",
+			"coords": "65, 217, 15"
+		},
+		{
+			"name": "Mid",
+			"coords": "55, 207, -4"
+		},
+		{
+			"name": "East",
+			"coords": "45, 217, -24"
+		}
+	]
+}
