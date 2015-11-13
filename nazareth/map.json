@@ -1,0 +1,31 @@
+{
+	"game": "domination",
+	"name": "Nazareth",
+	"builder": "Contacting",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "37, 103, 137",
+			"yaw": "90"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "-33, 100, 66",
+			"yaw": "-90"
+		}
+	],
+	"capture_points": [
+		{
+			"name": "East",
+			"coords": "27, 97, 77"
+		},
+		{
+			"name": "Mid",
+			"coords": "2, 100, 101"
+		},
+		{
+			"name": "West",
+			"coords": "-22, 97, 126"
+		}
+	]
+}
