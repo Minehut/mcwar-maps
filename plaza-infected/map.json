@@ -1,0 +1,12 @@
+{
+	"game": "infected",
+	"name": "Plaza",
+	"builder": "N11cK",
+	"locations": [
+		{
+			"name": "spawn",
+			"coords": "-1113, 33, -856",
+			"yaw": "180"
+		}
+	]
+}

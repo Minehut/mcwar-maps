@@ -1,0 +1,12 @@
+{
+	"game": "infected",
+	"name": "Raid",
+	"builder": "N11cK",
+	"locations": [
+		{
+			"name": "spawn",
+			"coords": "-913, 45, -1052",
+			"yaw": "90"
+		}
+	]
+}
