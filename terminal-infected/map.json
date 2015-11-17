@@ -1,0 +1,12 @@
+{
+	"game": "infected",
+	"name": "Terminal",
+	"builder": "Brakkie",
+	"locations": [
+		{
+			"name": "spawn",
+			"coords": "-88, 6, -302",
+			"yaw": "-30"
+		}
+	]
+}
