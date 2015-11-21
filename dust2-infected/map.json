@@ -1,0 +1,12 @@
+{
+	"game": "infected",
+	"name": "Dust 2",
+	"builder": "Secondhand Furnace",
+	"locations": [
+		{
+			"name": "spawn",
+			"coords": "460, 32, 465",
+			"yaw": "45"
+		}
+	]
+}
