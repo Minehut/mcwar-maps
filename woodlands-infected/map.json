@@ -1,0 +1,12 @@
+{
+	"game": "infected",
+	"name": "Woodlands",
+	"builder": "Luuke",
+	"locations": [
+		{
+			"name": "spawn",
+			"coords": "10, 97, 38",
+			"yaw": "180"
+		}
+	]
+}
