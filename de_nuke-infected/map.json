@@ -1,12 +1,12 @@
 {
 	"game": "infected",
-	"name": "Inferno",
+	"name": "Nuke",
 	"builder": "Secondhand Furnace",
 	"locations": [
 		{
 			"name": "spawn",
-			"coords": "432, 34, 1058",
-			"yaw": "-133"
+			"coords": "-1527, 32, 750",
+			"yaw": "180"
 		}
 	]
 }
