@@ -1,0 +1,12 @@
+{
+	"game": "infected",
+	"name": "De Inferno",
+	"builder": "Secondhand Furnace",
+	"locations": [
+		{
+			"name": "spawn",
+			"coords": "432, 34, 1058",
+			"yaw": "-133"
+		}
+	]
+}
