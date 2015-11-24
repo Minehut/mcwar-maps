@@ -1,0 +1,12 @@
+{
+	"game": "infected",
+	"name": "Asylum",
+	"builder": "Spewfs",
+	"locations": [
+		{
+			"name": "spawn",
+			"coords": "2115, 8, 1747",
+			"yaw": "180"
+		}
+	]
+}
