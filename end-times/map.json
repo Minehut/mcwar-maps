@@ -1,0 +1,49 @@
+{
+	"game": "warzone",
+	"name": "End Times",
+	"builder": "RetroMudkip and TheRandomKing12",
+	"locations": [
+		{
+			"name": "red-spawn",
+			"coords": "-19, 76, 3",
+			"yaw": "90"
+		},
+		{
+			"name": "blue-spawn",
+			"coords": "-181, 73, 3",
+			"yaw": "-90"
+		},
+		{
+			"name": "tower-red-1:1",
+			"coords": "-41, 87, -34"
+		},
+		{
+			"name": "tower-red-1:2",
+			"coords": "-53, 72, -22"
+		},
+		{
+			"name": "tower-red-2:1",
+			"coords": "-41, 85, 46"
+		},
+		{
+			"name": "tower-red-2:2",
+			"coords": "-53, 70, 34"
+		},
+		{
+			"name": "tower-blue-1:1",
+			"coords": "-147, 68, 34"
+		},
+		{
+			"name": "tower-blue-1:2",
+			"coords": "-159, 83, 46"
+		},
+		{
+			"name": "tower-blue-2:1",
+			"coords": "-147, 70, -22"
+		},
+		{
+			"name": "tower-blue-2:2",
+			"coords": "-159, 85, -34"
+		}
+	]
+}
