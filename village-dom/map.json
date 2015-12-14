@@ -4,6 +4,11 @@
 	"builder": "BlockHeads36",
 	"locations": [
 		{
+			"name": "spectate-spawn",
+			"coords": "-51, 64, 27",
+			"yaw": "-118"
+		},
+		{
 			"name": "red-spawn",
 			"coords": "-4, 51, 72",
 			"yaw": "180"

@@ -4,6 +4,11 @@
 	"builder": "Luuke",
 	"locations": [
 		{
+			"name": "spectate-spawn",
+			"coords": "-16, 105, 59",
+			"yaw": "180"
+		},
+		{
 			"name": "red-spawn",
 			"coords": "42, 96, 6",
 			"yaw": "90"

@@ -4,6 +4,11 @@
 	"builder": "RetroMudkip and BlockHeads36",
 	"locations": [
 		{
+			"name": "spectate-spawn",
+			"coords": "-49, 119, 0",
+			"yaw": "-90"
+		},
+		{
 			"name": "red-spawn",
 			"coords": "5, 99, 89",
 			"yaw": "180"

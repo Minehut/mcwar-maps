@@ -4,6 +4,11 @@
 	"builder": "Dubstep_Cat, JustADev, and StarRaidz",
 	"locations": [
 		{
+			"name": "spectate-spawn",
+			"coords": "-53, 81, -59",
+			"yaw": "-90"
+		},
+		{
 			"name": "red-spawn",
 			"coords": "-6, 67, 17",
 			"yaw": "-180"

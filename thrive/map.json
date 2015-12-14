@@ -4,6 +4,11 @@
 	"builder": "Jamespond and Cooli",
 	"locations": [
 		{
+			"name": "spectate-spawn",
+			"coords": "-84, 76, 6",
+			"yaw": "-90"
+		},
+		{
 			"name": "red-spawn",
 			"coords": "-24, 66, 52",
 			"yaw": "180"

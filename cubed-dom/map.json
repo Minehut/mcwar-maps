@@ -4,6 +4,11 @@
 	"builder": "_Ug",
 	"locations": [
 		{
+			"name": "spectate-spawn",
+			"coords": "102, 227, -33",
+			"yaw": "51"
+		},
+		{
 			"name": "red-spawn",
 			"coords": "-5, 206, 5",
 			"yaw": "-135"

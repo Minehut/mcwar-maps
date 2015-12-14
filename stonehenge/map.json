@@ -3,6 +3,11 @@
 	"name": "Stonehenge",
 	"locations": [
 		{
+			"name": "spectate-spawn",
+			"coords": "63, 86, -44",
+			"yaw": "90"
+		},
+		{
 			"name": "red-spawn",
 			"coords": "0, 74, -124",
 			"yaw": "0"
